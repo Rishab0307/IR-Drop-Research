@@ -1,0 +1,87 @@
+[
+  {
+    "run_id": "only_pall",
+    "notebook": "only_pall.ipynb",
+    "active_inputs": [
+      "power_all"
+    ]
+  },
+  {
+    "run_id": "only_pi",
+    "notebook": "only_pi.ipynb",
+    "active_inputs": [
+      "power_i"
+    ]
+  },
+  {
+    "run_id": "only_psca",
+    "notebook": "only_psca.ipynb",
+    "active_inputs": [
+      "power_sca"
+    ]
+  },
+  {
+    "run_id": "only_ps",
+    "notebook": "only_ps.ipynb",
+    "active_inputs": [
+      "power_s"
+    ]
+  },
+  {
+    "run_id": "only_pt",
+    "notebook": "only_pt.ipynb",
+    "active_inputs": [
+      "power_t"
+    ]
+  },
+  {
+    "run_id": "drop_pall",
+    "notebook": "drop_pall.ipynb",
+    "active_inputs": [
+      "power_i",
+      "power_sca",
+      "power_s",
+      "power_t"
+    ]
+  },
+  {
+    "run_id": "drop_pi",
+    "notebook": "drop_pi.ipynb",
+    "active_inputs": [
+      "power_all",
+      "power_sca",
+      "power_s",
+      "power_t"
+    ]
+  },
+  {
+    "run_id": "drop_psca",
+    "notebook": "drop_psca.ipynb",
+    "active_inputs": [
+      "power_all",
+      "power_i",
+      "power_s",
+      "power_t"
+    ]
+  },
+  {
+    "run_id": "drop_ps",
+    "notebook": "drop_ps.ipynb",
+    "active_inputs": [
+      "power_all",
+      "power_i",
+      "power_sca",
+      "power_t"
+    ]
+  },
+  {
+    "run_id": "drop_pt",
+    "notebook": "drop_pt.ipynb",
+    "active_inputs": [
+      "power_all",
+      "power_i",
+      "power_sca",
+      "power_s"
+    ]
+  }
+]

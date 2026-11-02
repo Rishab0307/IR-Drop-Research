@@ -1,0 +1,7 @@
+{
+  "loss": "MSE",
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "fine_tuned_layers": 4,
+  "per_chip_range_ssim": 0.7589141726493835
+}

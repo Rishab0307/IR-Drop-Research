@@ -1,0 +1,7 @@
+{
+  "loss": "LogCosh",
+  "batch_size": 32,
+  "learning_rate": 0.0001,
+  "fine_tuned_layers": 2,
+  "per_chip_range_ssim": 0.8305894732475281
+}

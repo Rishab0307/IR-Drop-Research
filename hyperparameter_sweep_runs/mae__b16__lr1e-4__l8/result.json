@@ -1,0 +1,7 @@
+{
+  "loss": "MAE",
+  "batch_size": 16,
+  "learning_rate": 0.0001,
+  "fine_tuned_layers": 8,
+  "per_chip_range_ssim": 0.8561466932296753
+}
